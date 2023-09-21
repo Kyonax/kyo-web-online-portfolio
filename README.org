@@ -1,7 +1,0 @@
-#+title: Kyonax Website Portfolio
-#+subtitle: Developer & Full/Stack Portfolio
-#+description: Kyonax a Full/Stack & Bot Developer - Projects portfolio
-#+filetags: :KYO: :WEBSITE:
-#+auto_tangle: t
-#+author: Kyonax
-#+date: [2023-07-06 Thuesday 11:39]
