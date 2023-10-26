@@ -15,12 +15,6 @@
     @apply relative w-1/3 text-left text-sm p-[0.1rem] px-1 pb-[0.02rem] mr-3
 }
 
-.link-ghost {
-    @apply absolute text-white opacity-0 bg-gray-400 group-hover:opacity-100 transition-all delay-75 duration-300
-}
-
-
 .bg-reveal {
-    @apply absolute top-0 right-0 group-hover:right-auto group-hover:left-0
-        left-auto bg-black w-[0%] group-hover:w-[100%] h-full transition-all duration-700 text-white
+    @apply absolute bg-black w-full h-full
 }
