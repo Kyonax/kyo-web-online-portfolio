@@ -15,7 +15,7 @@ interface NavBarProps {
 const NavBar: React.FC<NavBarProps> = ({ colorPalette, setIndexPalette }) => {
     const { animationControls } = SlideAnimation(useAnimation);
     
-    useEffect(() => { const hackerEffect = HackerEffect('hacker', 7) }, [])    
+    useEffect(() => { HackerEffect('hacker', 7) }, [])
     return (
         <div style={{ backgroundColor: colorPalette.background, color: colorPalette.text,
                       borderColor: colorPalette.text }} className="main-container">

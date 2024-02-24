@@ -16,5 +16,5 @@
 }
 
 .bg-reveal {
-    @apply absolute bg-black w-full h-full
+    @apply absolute w-full h-full
 }

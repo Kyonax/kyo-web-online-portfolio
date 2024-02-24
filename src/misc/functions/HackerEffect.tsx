@@ -1,5 +1,3 @@
-import { useEffect} from "react"
-
 const HackerEffect = (id: any, delay: any) => {
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const hackerElements = document.querySelectorAll(`[id=${id}]`);
