@@ -1,0 +1,37 @@
+{
+  "config": {
+      "page_lang": "es-CO",
+      "page_title": "Portfolio - @kyonax_on_tech",
+      "noscript": "Enable JavaScript Genius!",
+      "main_id": "root",
+      "meta_field": {
+        "charset": "utf-8",
+        "viewport_size": {
+          "name": "viewport",
+          "content": "width=device-width, initial-scale=1"
+        },
+        "theme_color": {
+          "name": "theme-color",
+          "content": "#000000"
+        },
+        "description": {
+          "name": "Kyonax Full Stack developer portfolio.",
+          "content": "Developed by @kyonax_on_tech"
+        }
+      },
+      "link_field": {
+        "favicon_url": {
+          "rel": "icon",
+          "href": "%PUBLIC_URL%/favicon.ico"
+        },
+        "apple_icon_url": {
+          "rel": "apple-touch-icon",
+          "href": "%PUBLIC_URL%/logo192.png"
+        },
+        "manifest_url": {
+          "rel": "manifest",
+          "href": "%PUBLIC_URL%/manifest.json"
+        }
+      }
+    }
+}
